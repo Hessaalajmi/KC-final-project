@@ -4,31 +4,23 @@
 
 <div dir="rtl">
   
-### اسم الطالب
+حصه عبدالله العجمي
 
+What's on
 
-### اسم المشروع
+  الفكرة عبارة عن كود يساعد المستخدم باختيار النشاط الصيفي من خلال
+   اقتراح الانشطة على حسب عمر و ميول المستخدم
 
-
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
-# الأعمال المستقبلية
-
+ممكن برمجة البرامج
 
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+Hessah Abdullah Alajmi
 
+What's on 
 
-### Project Name
+The idea is a code that helps the user choose a summer activity by suggesting activities according to the age and tendencies of the user
 
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
+Maybe apps
 
